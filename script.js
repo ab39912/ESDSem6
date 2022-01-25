@@ -1,4 +1,4 @@
-api_url = "https://esdnode.herokuapp.com/user";
+api_url = "https://noteesd.herokuapp.com/user";
 
 function loadData(records = []) {
   console.log(records);
